@@ -1,0 +1,5 @@
+Makefile
+build-Debug/
+.codelite/
+compile_commands.json
+CPProgramming.workspace
